@@ -1,9 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://rishavchanda.io
-)
+
 <h1 align="center">Hi 👋, I'm Minhaj</h1>
 <h3 align="center">A passionate web developer and data analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.i4KoIHyOgRS51RgW6qjabAHaEf&pid=Api&P=0&h=180">
+<img align="right" alt="Coding" width="400" src="[https://tse2.mm.bing.net/th?id=OIP.i4KoIHyOgRS51RgW6qjabAHaEf&pid=Api&P=0&h=180](https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajbinhafsahnazer&label=Profile%20views&color=0e75b6&style=flat" alt="minhajbinhafsahnazer" /> </p>
