@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Minhaj</h1>
-<h3 align="center">A passionate web developer and data analyst from India</h3>
+<h3 align="center">A passionate Data Analyst and Web Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
 
 
@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **data analytics**
 
-- 🤝 I’m looking for help with **data analysis**
-
-- 💬 Ask me about **web development**
+- 🤝 I’m looking for help with **data analytics & tools**
 
 - 📫 How to reach me **minhajbinhafsahnazer@gmail.com**
 
