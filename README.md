@@ -12,7 +12,8 @@
 
 - 🤝 I’m looking for help with **data analytics & tools**
 
-- 📫 How to reach me **click**
+- 📫 How to reach me **[mail me](minhajbinhafsahnazer@gmail.com)**
+
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RwKuBgmzZZIjLRjj17XHdrFJKPP9eghZ/view?usp=sharing)
 
