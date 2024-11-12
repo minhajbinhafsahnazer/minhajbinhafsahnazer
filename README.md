@@ -12,8 +12,7 @@
 
 - 🤝 I’m looking for help with **data analytics & tools**
 
-- 📫 How to reach me [link tree](https://minhaj.taplink.ws/)
-
+- 📫 How to reach me [link_tree](https://minhaj.taplink.ws/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RwKuBgmzZZIjLRjj17XHdrFJKPP9eghZ/view?usp=sharing)
 
