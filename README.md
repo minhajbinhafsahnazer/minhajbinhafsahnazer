@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **minhajbinhafsahnazer@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-JXQib4rHiQyzu0uTpSnyXhHTzIIOYya/view?usp=drive_link](https://drive.google.com/file/d/1-JXQib4rHiQyzu0uTpSnyXhHTzIIOYya/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RwKuBgmzZZIjLRjj17XHdrFJKPP9eghZ/view?usp=sharing](https://drive.google.com/file/d/1RwKuBgmzZZIjLRjj17XHdrFJKPP9eghZ/view?usp=sharing)
 
 - ⚡ Fun fact **I am cool**
 
