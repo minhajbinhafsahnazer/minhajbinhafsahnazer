@@ -12,11 +12,11 @@
 
 - 🤝 I’m looking for help with **data analytics & tools**
 
-- 📫 How to reach me **minhajbinhafsahnazer@gmail.com**
+- 📫 How to reach me **click**
 
-- 📄 Know about my experiences [link](https://drive.google.com/file/d/1RwKuBgmzZZIjLRjj17XHdrFJKPP9eghZ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RwKuBgmzZZIjLRjj17XHdrFJKPP9eghZ/view?usp=sharing)
 
-- ⚡ Fun fact **I am cool**
+- ⚡ **Success is Not The Absence of Failure ,it is The Persistance Through Failure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
