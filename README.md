@@ -22,14 +22,17 @@
 
 ✨ Explore my portfolio of impactful Data Analytics projects:
 
-- **📊 [Comprehensive Sales Data Analysis and Dashboard](https://github.com/minhajbinhafsahnazer/Comprehensive-Sales-Data-Analysis-and-Dashboard)**  
+  
+- **📊 <a href="https://github.com/minhajbinhafsahnazer/Comprehensive-Sales-Data-Analysis-and-Dashboard" style="color: green;">Comprehensive Sales Data Analysis and Dashboard</a>**  
    *In-depth analysis of sales trends and interactive dashboards for actionable insights.*
 
-- **🔍 [Customer Churn Prediction Model and Analysis](https://github.com/minhajbinhafsahnazer/Customer-Churn-Prediction-Analysis)**  
+- **🔍 <a href="https://github.com/minhajbinhafsahnazer/Customer-Churn-Prediction-Analysis" style="color: green;">Customer Churn Prediction Model and Analysis</a>**  
    *Leveraging machine learning to predict customer churn and uncover retention strategies.*
 
-- **📈 [Automated Reporting and Data Pipeline with SQL and Python](https://github.com/minhajbinhafsahnazer/Automated-Reporting-and-Data-Pipeline-with-SQL-and-Python)**  
+- **📈 <a href="https://github.com/minhajbinhafsahnazer/Automated-Reporting-and-Data-Pipeline-with-SQL-and-Python" style="color: green;">Automated Reporting and Data Pipeline with SQL and Python</a>**  
    *Streamlining data workflows through automation for faster decision-making.*
+
+  
 ---
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RwKuBgmzZZIjLRjj17XHdrFJKPP9eghZ/view?usp=sharing)
