@@ -13,6 +13,25 @@
 - 🤝 I’m looking for help with **data analytics & tools**
 
 - 📫 How to reach me [link_tree](https://minhaj.taplink.ws/)
+ 
+
+---
+
+
+## 🚀 **My Data Analytics Projects**
+
+✨ Explore my portfolio of impactful Data Analytics projects:
+
+- **📊 Comprehensive Sales Data Analysis and Dashboard**  
+   *In-depth analysis of sales trends and interactive dashboards for actionable insights.*
+
+- **🔍 Customer Churn Prediction Model and Analysis**  
+   *Leveraging machine learning to predict customer churn and uncover retention strategies.*
+
+- **📈 Automated Reporting and Data Pipeline with SQL and Python**  
+   *Streamlining data workflows through automation for faster decision-making.*
+
+---
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RwKuBgmzZZIjLRjj17XHdrFJKPP9eghZ/view?usp=sharing)
 
