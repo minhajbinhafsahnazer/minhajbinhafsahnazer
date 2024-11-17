@@ -18,7 +18,7 @@
 ---
 
 
-## 🚀 **My Data Analytics Projects**
+## <p style="color: lightgreen;">🚀 **My Data Analytics Projects**</p>
 
 ✨ Explore my portfolio of impactful Data Analytics projects:
 
