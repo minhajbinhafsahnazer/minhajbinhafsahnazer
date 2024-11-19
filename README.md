@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **data analytics**
 
-- 🤝 I’m looking for help with **data analytics & tools**
+- 🤝 I’m looking for help with **data analytics & data engineering tools**
 
 - 📫 How to reach me [link_tree](https://minhaj.taplink.ws/)
  
