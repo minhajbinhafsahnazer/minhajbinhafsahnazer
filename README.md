@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Plant Pot**
 
-- 🌱 I’m currently learning **data analytics**
+- 🌱 I’m currently practicing **Advanced web development & data analytics**
 
-- 🤝 I’m looking for help with **data analytics & data engineering tools**
+- 🤝 I’m looking for help with **data analytics & Modern Development tools**
 
 - 📫 How to reach me [link_tree](https://minhaj.taplink.ws/)
  
@@ -18,18 +18,18 @@
 ---
 
 
-## <p style="color: lightgreen;">🚀 **My Data Analytics Projects**</p>
+## <p style="color: lightgreen;">🚀 **My Projects**</p>
 
-✨ Explore my portfolio of impactful Data Analytics projects:
+✨ Explore my portfolio of impactful Full stack & Data Analytics projects:
 
   
-- **📊 <a href="https://github.com/minhajbinhafsahnazer/Comprehensive-Sales-Data-Analysis-and-Dashboard" style="color: green;">Comprehensive Sales Data Analysis and Dashboard</a>**  
-   *In-depth analysis of sales trends and interactive dashboards for actionable insights.*
+- **📊 <a href="https://github.com/minhajbinhafsahnazer/plantpot" style="color: green;">PlantPot</a>**  
+   *E-commerce application made with Django.*
 
 - **🔍 <a href="https://github.com/minhajbinhafsahnazer/Customer-Churn-Prediction-Analysis" style="color: green;">Customer Churn Prediction Model and Analysis</a>**  
    *Leveraging machine learning to predict customer churn and uncover retention strategies.*
 
-- **📈 <a href="https://github.com/minhajbinhafsahnazer/Automated-Reporting-and-Data-Pipeline-with-SQL-and-Python" style="color: green;">Automated Reporting and Data Pipeline with SQL and Python</a>**  
+- **📈 <a href="https://github.com/minhajbinhafsahnazer/tour_app" style="color: green;">Tour App Made with Rest Api</a>**  
    *Streamlining data workflows through automation for faster decision-making.*
 
   
