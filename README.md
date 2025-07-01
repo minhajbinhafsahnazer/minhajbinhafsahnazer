@@ -35,7 +35,7 @@
   
 ---
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RwKuBgmzZZIjLRjj17XHdrFJKPP9eghZ/view?usp=sharing)
+
 
 - ⚡ **Success is Not The Absence of Failure ,it is The Persistance Through Failure**
 
