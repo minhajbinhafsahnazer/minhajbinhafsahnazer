@@ -13,10 +13,10 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **Plant Pot** – an interior decor & e-commerce platform.  
-- 🌱 Actively learning **Advanced Web Development** and **Data Analytics**.  
-- 🤝 Open to collaborations in **Data Analytics**, **AI**, and **Full Stack Projects**.  
-- 📫 Connect with me here: [TapLink](https://minhaj.taplink.ws/)
+Full Stack Developer specializing in **Python Django** and **React**, with hands-on experience in building dynamic  
+web applications and integrating robust RESTful APIs. Proficient in front-end development, back-end architecture,  
+and database management. Adept at designing scalable, maintainable solutions and delivering high-performance  
+applications in fast-paced, agile environments.
 
 ---
 
