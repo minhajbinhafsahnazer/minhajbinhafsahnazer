@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer & Tech Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif" alt="Coding GIF" width="400"/>
+  <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="Coding GIF" width="400"/>
 </p>
 
 <p align="center">
