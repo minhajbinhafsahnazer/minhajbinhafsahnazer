@@ -69,15 +69,10 @@ applications in fast-paced, agile environments.
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhajbinhafsahnazer&layout=compact&theme=transparent" alt="Top Languages" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=minhajbinhafsahnazer&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
 
-<br clear="both" />
-
----
 
 ### 🌐 Connect with Me
-
 <p align="left">
   <a href="https://linkedin.com/in/minhajpk" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -87,7 +82,13 @@ applications in fast-paced, agile environments.
   </a>
 </p>
 
+
+<br clear="both" />
+
 ---
+
+
+
 
 > ⚡ *"Success is not the absence of failure, it is the persistence through failure."*
 
