@@ -36,7 +36,7 @@ applications in fast-paced, agile environments.
  
   <tr>
     <td>
-      <strong><a href="https://github.com/minhajbinhafsahnazer/tour_app" style="text-decoration: none; color: inherit;">Tour App API</a></strong>
+      <strong><a href="https://github.com/minhajbinhafsahnazer/tour_app" style="text-decoration: none; color: inherit;">Tour App </a></strong>
     </td>
     <td>
       A robust <strong>Django REST API</strong> to manage tourist destinations with image handling and custom endpoints.
