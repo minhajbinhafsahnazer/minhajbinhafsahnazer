@@ -24,15 +24,7 @@
 
 ✨ A glimpse into my work in Full Stack Development and Data Science:
 
-- 📦 **[PlantPot](https://github.com/minhajbinhafsahnazer/plantpot)**  
-  *E-commerce application built using Django.*
-
-- 🔍 **[Customer Churn Prediction](https://github.com/minhajbinhafsahnazer/Customer-Churn-Prediction-Analysis)**  
-  *Machine Learning model to predict customer retention & churn patterns.*
-
-- 🌐 **[Tour App – REST API](https://github.com/minhajbinhafsahnazer/tour_app)**  
-  *Tour destination API using Django REST Framework.*
-
+<table> <tr> <td width="30%">📦 <strong><a href="https://github.com/minhajbinhafsahnazer/plantpot">PlantPot</a></strong></td> <td>An elegant <strong>Django-based E-commerce platform</strong> tailored for interior decor and designer collectibles.</td> </tr> <tr> <td>🔍 <strong><a href="https://github.com/minhajbinhafsahnazer/Customer-Churn-Prediction-Analysis">Churn Predictor</a></strong></td> <td>A <strong>Machine Learning project</strong> that analyzes customer behavior to predict churn risk with high accuracy.</td> </tr> <tr> <td>🌐 <strong><a href="https://github.com/minhajbinhafsahnazer/tour_app">Tour App API</a></strong></td> <td>A robust <strong>Django REST API</strong> to manage tourist destinations with image handling and custom endpoints.</td> </tr> </table>
 ---
 
 ### 🧠 Tech Stack & Tools
