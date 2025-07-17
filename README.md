@@ -24,8 +24,33 @@
 
 ✨ A glimpse into my work in Full Stack Development and Data Science:
 
-<table> <tr> <td width="30%">📦 <strong><a href="https://github.com/minhajbinhafsahnazer/plantpot">PlantPot</a></strong></td> <td>An elegant <strong>Django-based E-commerce platform</strong> tailored for interior decor and designer collectibles.</td> </tr> <tr> <td>🔍 <strong><a href="https://github.com/minhajbinhafsahnazer/Customer-Churn-Prediction-Analysis">Churn Predictor</a></strong></td> <td>A <strong>Machine Learning project</strong> that analyzes customer behavior to predict churn risk with high accuracy.</td> </tr> <tr> <td>🌐 <strong><a href="https://github.com/minhajbinhafsahnazer/tour_app">Tour App API</a></strong></td> <td>A robust <strong>Django REST API</strong> to manage tourist destinations with image handling and custom endpoints.</td> </tr> </table>
----
+<table>
+  <tr>
+    <td width="30%">
+      <strong><a href="https://github.com/minhajbinhafsahnazer/plantpot" style="text-decoration: none; color: inherit;">PlantPot</a></strong>
+    </td>
+    <td>
+      An elegant <strong>Django-based E-commerce platform</strong> tailored for interior decor and designer collectibles.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/minhajbinhafsahnazer/Customer-Churn-Prediction-Analysis" style="text-decoration: none; color: inherit;">Churn Predictor</a></strong>
+    </td>
+    <td>
+      A <strong>Machine Learning project</strong> that analyzes customer behavior to predict churn risk with high accuracy.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong><a href="https://github.com/minhajbinhafsahnazer/tour_app" style="text-decoration: none; color: inherit;">Tour App API</a></strong>
+    </td>
+    <td>
+      A robust <strong>Django REST API</strong> to manage tourist destinations with image handling and custom endpoints.
+    </td>
+  </tr>
+</table>
+
 
 ### 🧠 Tech Stack & Tools
 
