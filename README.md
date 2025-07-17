@@ -1,58 +1,79 @@
+<h1 align="center">Hey there 👋, I'm Minhaj</h1>
+<h3 align="center">A Fullstack Developer & Creative Technologist from India</h3>
 
-<h1 align="center">Hi 👋, I'm Minhaj</h1>
-<h3 align="center">A passionate Developer & Web Designer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajbinhafsahnazer&label=Profile%20views&color=0e75b6&style=flat" alt="minhajbinhafsahnazer" /> </p>
-
-- 🔭 I’m currently working on **Plant Pot**
-
-- 🌱 I’m currently practicing **Advanced web development & data analytics**
-
-- 🤝 I’m looking for help with **data analytics & Modern Development tools**
-
-- 📫 How to reach me [link_tree](https://minhaj.taplink.ws/)
- 
-
----
-
-
-## <p style="color: lightgreen;">🚀 **My Projects**</p>
-
-✨ Explore my portfolio of impactful Full stack & Data Analytics projects:
-
-  
-- **📊 <a href="https://github.com/minhajbinhafsahnazer/plantpot" style="color: green;">PlantPot</a>**  
-   *E-commerce application made with Django.*
-
-- **🔍 <a href="https://github.com/minhajbinhafsahnazer/Customer-Churn-Prediction-Analysis" style="color: green;">Customer Churn Prediction Model and Analysis</a>**  
-   *Leveraging machine learning to predict customer churn and uncover retention strategies.*
-
-- **📈 <a href="https://github.com/minhajbinhafsahnazer/tour_app" style="color: green;">Tour App Made with Rest Api</a>**  
-   *Streamlining data workflows through automation for faster decision-making.*
-
-  
----
-
-
-
-- ⚡ **Success is Not The Absence of Failure ,it is The Persistance Through Failure**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/minhajpk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/minhajpk" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/minhajbinhafsahnazer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/minhajbinhafsahnazer" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif" alt="coding gif" width="400"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=minhajbinhafsahnazer&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 🚀 About Me
 
+- 🔭 Currently working on: **[Plant Pot](https://github.com/minhajbinhafsahnazer/plantpot)** – a feature-rich e-commerce platform.
+- 🌱 Leveling up in: **Advanced Web Development & Data Analytics**
+- 🤝 Looking to collaborate on: **AI projects, Fullstack apps & data-driven tools**
+- 📫 Connect with me here: [Taplink](https://minhaj.taplink.ws/)
+- ⚡ Fun Quote: *"Success is not the absence of failure, it's the persistence through failure."*
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhajbinhafsahnazer&show_icons=true&locale=en&layout=compact" alt="minhajbinhafsahnazer" /></p>
+### 📁 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhajbinhafsahnazer&show_icons=true&locale=en" alt="minhajbinhafsahnazer" /></p>
+Here are a few of my favorite and impactful builds:
 
+- **🪴 [PlantPot](https://github.com/minhajbinhafsahnazer/plantpot)**  
+  *A clean and responsive e-commerce web app built using Django.*
+
+- **🔍 [Customer Churn Prediction](https://github.com/minhajbinhafsahnazer/Customer-Churn-Prediction-Analysis)**  
+  *Predictive ML model with business insights to retain users.*
+
+- **🌍 [Tour App REST API](https://github.com/minhajbinhafsahnazer/tour_app)**  
+  *RESTful API for tourist data management with Django REST Framework.*
+
+---
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhajbinhafsahnazer&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=minhajbinhafsahnazer&show_icons=true&locale=en" alt="GitHub Stats"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/minhajpk" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/minhajbinhafsahnazer" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40"/>
+  </a>
+</p>
