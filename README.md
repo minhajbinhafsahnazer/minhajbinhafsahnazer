@@ -62,7 +62,7 @@ applications in fast-paced, agile environments.
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
----
+
 
 ## 📊 GitHub Stats
 
