@@ -33,14 +33,7 @@ applications in fast-paced, agile environments.
       An elegant <strong>Django-based E-commerce platform</strong> tailored for interior decor and designer collectibles.
     </td>
   </tr>
-  <tr>
-    <td>
-      <strong><a href="https://github.com/minhajbinhafsahnazer/Customer-Churn-Prediction-Analysis" style="text-decoration: none; color: inherit;">Churn Predictor</a></strong>
-    </td>
-    <td>
-      A <strong>Machine Learning project</strong> that analyzes customer behavior to predict churn risk with high accuracy.
-    </td>
-  </tr>
+ 
   <tr>
     <td>
       <strong><a href="https://github.com/minhajbinhafsahnazer/tour_app" style="text-decoration: none; color: inherit;">Tour App API</a></strong>
