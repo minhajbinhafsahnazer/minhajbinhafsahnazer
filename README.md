@@ -13,6 +13,11 @@ Dubai, UAE &nbsp;·&nbsp; **Available Immediately**
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+971_54_171_8006-18181b?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/971541718006)
 [![Location](https://img.shields.io/badge/Dubai-UAE-18181b?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Dubai)
 
+<br/><br/>
+
+<!-- HERO BANNER -->
+<img src="https://wallpaperaccess.com/full/14118154.png" alt="Developer Workspace Setup" width="100%" style="border-radius: 12px; object-fit: cover; max-height: 380px;" />
+
 </div>
 
 <br/>
